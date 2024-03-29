@@ -1,0 +1,102 @@
+[
+    {
+      "question": "Quel langage est utilisé pour créer des feuilles de style pour la mise en forme des pages web ?",
+      "options": ["HTML", "CSS", "JavaScript", "Python"],
+      "answer": 1
+    },
+    {
+      "question": "Quel langage est utilisé pour rendre une page web interactive et dynamique ?",
+      "options": ["CSS", "HTML", "Python", "JavaScript"],
+      "answer": 3
+    },
+    {
+      "question": "Quel protocole est utilisé pour transférer des fichiers sur un serveur distant ?",
+      "options": ["HTTP", "SSH", "SMTP", "FTP"],
+      "answer": 3
+    },
+    {
+      "question": "Quel framework JavaScript est utilisé pour la création d'interfaces utilisateur réactives ?",
+      "options": ["Angular", "Vue.js", "React", "Ember.js"],
+      "answer": 2
+    },
+    {
+      "question": "Quel format de données est principalement utilisé pour échanger des données entre un serveur et un client dans une application web ?",
+      "options": ["XML", "JSON", "CSV", "YAML"],
+      "answer": 1
+    },
+    {
+      "question": "Quel langage est utilisé pour créer des requêtes de base de données dans une application web ?",
+      "options": ["Ruby", "Java", "C++", "SQL"],
+      "answer": 3
+    },
+    {
+      "question": "Quel service est utilisé pour héberger des sites web statiques de manière gratuite ?",
+      "options": ["AWS", "Google Cloud", "Heroku", "GitHub Pages"],
+      "answer": 3
+    },
+    {
+      "question": "Quel langage est utilisé pour le développement côté serveur dans les applications web ?",
+      "options": ["Python", "Java", "JavaScript", "Ruby"],
+      "answer": 0
+    },
+    {
+      "question": "Quel langage est souvent utilisé pour créer des scripts côté serveur dans une application web ?",
+      "options": ["Python", "Ruby", "PHP", "JavaScript"],
+      "answer": 2
+    },
+    {
+      "question": "Quel système de gestion de base de données est le plus couramment utilisé dans les applications web ?",
+      "options": ["SQLite", "MongoDB", "MySQL", "PostgreSQL"],
+      "answer": 2
+    },
+    {
+      "question": "Quelle technologie permet de charger du contenu sur une page web sans rechargement complet de la page ?",
+      "options": ["Ajax", "jQuery", "React", "Vue.js"],
+      "answer": 0
+    },
+    {
+      "question": "Quel langage est utilisé pour créer des animations et des interactions avancées sur une page web ?",
+      "options": ["HTML", "JavaScript", "CSS", "Flash"],
+      "answer": 1
+    },
+    {
+      "question": "Quel est l'acronyme de 'CSS' ?",
+      "options": ["Cascading Style Sheets", "Creative Style Sheets", "Cascading Simple Sheets", "Computer Style Sheets"],
+      "answer": 0
+    },
+    {
+      "question": "Quel langage est utilisé pour structurer le contenu d'une page web ?",
+      "options": ["JavaScript", "CSS", "HTML", "XML"],
+      "answer": 2
+    },
+    {
+      "question": "Quel protocole est utilisé pour sécuriser les communications entre un navigateur web et un serveur ?",
+      "options": ["HTTP", "SSL/TLS", "SMTP", "FTP"],
+      "answer": 1
+    },
+    {
+      "question": "Quel langage est utilisé pour ajouter des fonctionnalités dynamiques à une page web ?",
+      "options": ["Python", "JavaScript", "HTML", "CSS"],
+      "answer": 1
+    },
+    {
+      "question": "Quel format est utilisé pour structurer les données dans une base de données relationnelle ?",
+      "options": ["Collections", "Graphes", "Documents", "Tables"],
+      "answer": 3
+    },
+    {
+      "question": "Quel langage est utilisé pour créer des requêtes de recherche avancées dans une base de données ?",
+      "options": ["Python", "JavaScript", "SQL", "Ruby"],
+      "answer": 2
+    },
+    {
+      "question": "Quel service est utilisé pour rendre un site web accessible sur Internet ?",
+      "options": ["Serveur web", "Hébergement web", "Domaine web", "DNS"],
+      "answer": 1
+    },
+    {
+      "question": "Quel est l'acronyme de 'HTTP' ?",
+      "options": ["Hyper Text Markup Language", "Hypertext Transfer Protocol", "Hyper Transfer Protocol", "Hypertext Transfer Page"],
+      "answer": 1
+    }
+  ]  
